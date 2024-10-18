@@ -1,0 +1,11 @@
+dr_id,drf_name,drl_name,age,fare,payment,no_of_ex,email,phone_no
+101,solanki,divas,28,450,upi,4,divas23@gmail.com,8855223366
+102,malviya,pravin,25,458,debitcard,2,pr232@gmail.com,6455653215
+103,rajput,suraj,23,850,upi,1,suraj235@gmail.com,589632589
+104,chaudhari,abhishek,42,210,upi,10,abhishek23@gmail.com,4578457856
+105,ahir,sunny,36,500,mobikwik,5,suny32@gmail.com,8899665522
+106,ray,chandan,35,690,debitcard,6,ch23@gmail.com,32589632589
+107,parihar,rohit,31,120,upi,3,rohit25@gmail.com,9998653295
+108,chauhan,rinku,40,100,cash,10,rinku56@gmail.com,7854123698
+109,rajput,sudhanshu,25,250,cash,3,sudhanshu215@gmail.com,9988774455
+110,yadav,vishnu,23,800,upi,1,vishnu23@gmail.com,8865987456
